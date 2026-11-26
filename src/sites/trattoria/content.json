@@ -1,0 +1,195 @@
+{
+  "common": {
+    "since": "dal 1961",
+    "bookingLabel": "Prenota",
+    "bookingLong": "Prenota un tavolo",
+    "callLabel": "Chiama",
+    "menuLink": "Vedi il menu",
+    "mapsLabel": "Indicazioni stradali",
+    "demoAddress": "Indirizzo dimostrativo",
+    "hoursTitle": "Orari",
+    "addressTitle": "Dove siamo",
+    "contactTitle": "Prenotazioni",
+    "menuToggleOpen": "Apri il menu",
+    "mobileNavNote": "Prenotazioni anche al telefono, dal martedì alla domenica."
+  },
+  "home": {
+    "meta": "Trattoria Bellandi, cucina emiliana di famiglia dal 1961 a Borgo San Vitale: tortellini in brodo, tagliatelle al ragù e sfoglia tirata a mano. Sito dimostrativo.",
+    "hero": {
+      "kicker": "Dal 1961 · Borgo San Vitale",
+      "title": "Qui la sfoglia si tira *ancora a mano.*",
+      "lede": "Una trattoria di famiglia nella campagna bolognese. Tortellini in brodo, tagliatelle al ragù e il bollito della domenica, da tre generazioni.",
+      "caption": "La sala grande, pronta per il pranzo."
+    },
+    "intro": {
+      "kicker": "La cucina",
+      "title": "Ricette di casa, *cucinate senza fretta.*",
+      "paras": [
+        "Da noi la giornata comincia presto, con la farina sul tagliere e il brodo che cuoce piano sul fuoco. La sfoglia si tira al mattarello, i tortellini si chiudono uno alla volta e il ragù resta sul fornello tutta la mattina.",
+        "Non inseguiamo le mode: cuciniamo i piatti che si mangiavano la domenica nelle case di campagna, con le carni, i formaggi e le verdure delle aziende qui intorno. Il menu cambia con le stagioni, le ricette no."
+      ],
+      "quote": "Il ragù non guarda l’orologio: è pronto quando è pronto.",
+      "quoteBy": "Ines Bellandi"
+    },
+    "menuPreview": {
+      "kicker": "Dal menu",
+      "title": "Alcuni piatti della casa",
+      "dishes": [
+        "Tortellini in brodo di cappone",
+        "Tagliatelle al ragù",
+        "Lasagne verdi alla bolognese",
+        "Bollito misto con salsa verde",
+        "Cotoletta alla bolognese",
+        "Zuppa inglese"
+      ],
+      "note": "Prezzi in euro, dimostrativi.",
+      "link": "Il menu completo",
+      "caption": "Tagliatelle al ragù, il piatto che chiedono tutti."
+    },
+    "story": {
+      "kicker": "La nostra storia",
+      "title": "Tre generazioni *intorno allo stesso tavolo.*",
+      "text": "Ines aprì la trattoria accanto al vecchio mulino con sei tavoli e una stufa a legna. Oggi in cucina c’è sua nipote Giulia, in sala suo nipote Matteo. Le ricette sono rimaste quelle scritte a matita sul quaderno di casa.",
+      "link": "Leggi la nostra storia",
+      "caption": "In cucina, la mattina presto."
+    },
+    "room": {
+      "kicker": "La sala",
+      "title": "Tovaglie bianche *e vino della casa.*",
+      "text": "Due sale e un banco di legno: quella piccola, con le fotografie di famiglia alle pareti, e quella grande, dove la domenica si uniscono i tavoli.",
+      "captions": {
+        "sala": "La sala piccola, con le fotografie di famiglia.",
+        "hero": "La tavola apparecchiata, nella sala grande.",
+        "cantina": "Le bottiglie dietro al banco."
+      }
+    },
+    "convivial": {
+      "kicker": "La domenica",
+      "title": "Il pranzo *della domenica.*",
+      "text": "La domenica la trattoria si riempie di famiglie, nonni, bambini e amici che tornano da anni. Si comincia a mezzogiorno e mezzo e non si ha mai fretta di alzarsi.",
+      "items": [
+        { "title": "Tavolate", "text": "Uniamo i tavoli fino a ventiquattro persone, per compleanni, battesimi e pranzi di famiglia." },
+        { "title": "Bambini", "text": "Seggioloni, mezze porzioni e un piatto di tagliatelle al burro per chi è piccolo." },
+        { "title": "Il bollito", "text": "Il carrello del bollito passa tra i tavoli il giovedì e la domenica, con le sue salse." }
+      ],
+      "caption": "Una porzione di lasagne, appena uscita dal forno."
+    },
+    "booking": {
+      "title": "Vi aspettiamo *a tavola.*",
+      "text": "La domenica a pranzo i tavoli finiscono presto: meglio prenotare qualche giorno prima. Per le tavolate oltre le dodici persone telefonateci."
+    },
+    "visit": {
+      "kicker": "Venire a trovarci",
+      "title": "Orari e indirizzo"
+    }
+  },
+  "menuPage": {
+    "meta": "Il menu della Trattoria Bellandi: antipasti, tortellini in brodo, tagliatelle al ragù, lasagne verdi, bollito misto, dolci fatti in casa e vini della casa. Prezzi dimostrativi.",
+    "kicker": "Autunno e inverno",
+    "lede": "Pochi piatti, fatti ogni giorno. La sfoglia si tira la mattina, il brodo cuoce dalle otto e i dolci escono dal forno prima di pranzo.",
+    "navLabel": "Categorie",
+    "legendTitle": "Come leggere il menu",
+    "notesTitle": "Note",
+    "closing": "Per un tavolo la domenica, meglio prenotare qualche giorno prima.",
+    "currency": "euro"
+  },
+  "storia": {
+    "meta": "La storia della Trattoria Bellandi, aperta nel 1961 da Ines Bellandi a Borgo San Vitale e oggi guidata dalla terza generazione. Sito dimostrativo.",
+    "kicker": "La nostra storia",
+    "title": "Una cucina che si tramanda *a voce.*",
+    "lede": "Sessant’anni e passa di sfoglia, brodo e domeniche a tavola, raccontati da chi oggi porta avanti la trattoria.",
+    "heroCaption": "Il gesto di sempre: la pasta, sul tavolo di casa.",
+    "chapters": [
+      {
+        "id": "origini",
+        "title": "Le origini",
+        "paras": [
+          "Nella primavera del 1961 Ines Bellandi aveva ventisei anni, un tavolo di noce ereditato dalla madre e una ricetta del ragù che non ha mai scritto per intero. Prese in affitto due stanze accanto al vecchio mulino di Borgo San Vitale e ci mise sei tavoli, una stufa a legna e una credenza per le tovaglie.",
+          "Venivano a mangiare i mugnai, i camionisti che passavano sulla provinciale e le famiglie del paese la domenica. Il menu lo diceva lei a voce, tavolo per tavolo: quello che c’era quel giorno, cucinato come a casa."
+        ]
+      },
+      {
+        "id": "famiglia",
+        "title": "Una tradizione di famiglia",
+        "paras": [
+          "Il figlio Franco è cresciuto tra la cucina e la sala. Nel 1987, con la moglie Luisa, ha comprato i muri, ha aperto la sala grande e ha scavato la piccola cantina dove ancora oggi teniamo il Lambrusco e il Sangiovese. Ines ha continuato a tirare la sfoglia ogni mattina, finché ha voluto.",
+          "Oggi la trattoria è di Giulia e Matteo, i nipoti. Giulia ha imparato a fare i tortellini sulla sedia accanto alla nonna; Matteo cura la sala e la cantina. Franco e Luisa passano ancora quasi ogni giorno, e il quaderno delle ricette sta sempre sulla mensola sopra il tagliere."
+        ]
+      },
+      {
+        "id": "cucina",
+        "title": "La nostra cucina",
+        "paras": [
+          "Crediamo in una cucina semplice e paziente. Pochi ingredienti, scelti bene, e il tempo che serve: il brodo di cappone cuoce per ore, il ragù sobbolle tutta la mattina, il bollito si prepara dal giorno prima.",
+          "Compriamo carni, salumi, formaggi e verdure da piccole aziende della zona, molte delle quali conosciamo da più di una generazione. Quando un ingrediente non è al suo meglio, il piatto aspetta la stagione giusta."
+        ]
+      },
+      {
+        "id": "sfoglia",
+        "title": "La sfoglia",
+        "paras": [
+          "Ogni mattina, prima delle nove, sul tagliere ci sono farina e uova: un uovo per ogni etto di farina, niente acqua, niente sale. La sfoglia si tira al mattarello finché, sollevata contro la finestra, lascia passare la luce.",
+          "Da lì nascono le tagliatelle, i tortellini, i tortelloni e le lasagne verdi. Una macchina farebbe prima, ma la pasta tirata a mano è più ruvida e trattiene meglio il sugo: è la differenza che si sente nel piatto."
+        ]
+      },
+      {
+        "id": "accoglienza",
+        "title": "L’accoglienza",
+        "paras": [
+          "Per noi una trattoria è una casa con la porta aperta. Chi entra per la prima volta viene trattato come chi viene da trent’anni: un tavolo apparecchiato con cura, il pane ancora tiepido e il tempo di scegliere senza fretta.",
+          "Ai bambini portiamo i seggioloni prima che li chiediate, alle tavolate della domenica uniamo i tavoli, e se volete sapere come si fa il friggione, Giulia ve lo racconta volentieri."
+        ]
+      }
+    ],
+    "quote": "Il segreto? Non c’è. C’è la sfoglia di tutti i giorni, e qualcuno che si alza presto per farla.",
+    "quoteBy": "Giulia Bellandi, terza generazione",
+    "photos": {
+      "sfoglia": "Le tagliatelle, appena tagliate.",
+      "mattarello": "Nidi di tagliatelle, pronti per il pranzo.",
+      "mani": "Il mattarello, ogni mattina."
+    },
+    "timelineTitle": "In tre date",
+    "timeline": [
+      { "year": "1961", "title": "L’apertura", "text": "Ines apre la trattoria accanto al vecchio mulino: sei tavoli, una stufa a legna e la sfoglia tirata sul tavolo di casa." },
+      { "year": "1987", "title": "La sala grande", "text": "Franco e Luisa allargano la trattoria, aprono la sala grande e la cantina. Le ricette restano quelle di Ines." },
+      { "year": "Oggi", "title": "La terza generazione", "text": "Giulia in cucina e Matteo in sala. La sfoglia si tira ancora a mano, ogni mattina." }
+    ],
+    "closingTitle": "Venite ad *assaggiarla.*",
+    "closingText": "Il modo migliore per conoscere la nostra storia è sedersi a tavola."
+  },
+  "contatti": {
+    "meta": "Contatti della Trattoria Bellandi: indirizzo, orari, telefono, e-mail e indicazioni per arrivare a Borgo San Vitale. Dati dimostrativi.",
+    "kicker": "Contatti",
+    "title": "Venite *a trovarci.*",
+    "lede": "Siamo in campagna, a due passi dal vecchio mulino. Si prenota per telefono o online; la domenica a pranzo conviene farlo qualche giorno prima.",
+    "phoneTitle": "Telefono",
+    "emailTitle": "E-mail",
+    "socialTitle": "Seguici",
+    "hoursNote": [
+      "Chiusura per ferie: due settimane ad agosto e dal 7 al 20 gennaio.",
+      "La cucina chiude mezz’ora prima della sala."
+    ],
+    "bookingTitle": "Prenotare",
+    "bookingParas": [
+      "Per tavoli fino a otto persone potete prenotare online o al telefono.",
+      "Per tavolate, pranzi di famiglia e feste chiamateci: prepariamo insieme il menu."
+    ],
+    "directionsTitle": "Come arrivare",
+    "directionsNote": "Indicazioni dimostrative, come l’indirizzo.",
+    "directions": [
+      { "title": "In auto", "text": "Dall’autostrada A1 uscite al casello più vicino e seguite le indicazioni per Borgo San Vitale. Dopo il ponte sul canale girate a destra in Via dei Mulini: la trattoria è dopo trecento metri, sulla sinistra." },
+      { "title": "Parcheggio", "text": "Parcheggio gratuito nel cortile della trattoria, con un posto riservato alle persone con disabilità accanto all’ingresso. La domenica c’è posto anche nel piazzale del mulino." },
+      { "title": "In autobus", "text": "La linea extraurbana da Bologna ferma in piazza a Borgo San Vitale. Da lì sono dieci minuti a piedi lungo il canale." }
+    ],
+    "accessTitle": "Accessibilità",
+    "access": "Ingresso e sala grande senza gradini, bagno accessibile. Se avete esigenze particolari, diteci pure quando prenotate.",
+    "fictional": "Questo è un sito dimostrativo: il ristorante, l’indirizzo, i numeri di telefono, l’e-mail e i profili social sono di fantasia.",
+    "photoCaption": "Il tavolo apparecchiato, prima del servizio."
+  },
+  "footer": {
+    "tagline": "Cucina emiliana di famiglia dal 1961.",
+    "navTitle": "Pagine",
+    "socialTitle": "Contatti",
+    "demo": "Sito dimostrativo — nomi, indirizzi, numeri e prezzi sono di fantasia."
+  }
+}

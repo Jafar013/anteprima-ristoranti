@@ -1,0 +1,216 @@
+{
+  "common": {
+    "descriptor": "cucina di famiglia",
+    "bookLabel": "Prenota",
+    "bookLong": "Prenota un tavolo",
+    "callLabel": "Chiama",
+    "whatsappLabel": "WhatsApp",
+    "emailLabel": "Scrivici",
+    "mapsLabel": "Indicazioni stradali",
+    "menuLabel": "Menu",
+    "demoAddress": "Indirizzo dimostrativo",
+    "cta": {
+      "eyebrow": "Prenotazioni",
+      "title": "Ti teniamo *un posto a tavola*.",
+      "text": "Prenota online in pochi passaggi oppure chiamaci: per i gruppi e il pranzo della domenica è meglio sentirci.",
+      "photoAlt": ""
+    },
+    "footer": {
+      "lede": "Le ricette di nonna Gemma, cucinate di nuovo dai suoi nipoti.",
+      "hoursTitle": "Orari",
+      "addressTitle": "Dove siamo",
+      "navTitle": "Pagine",
+      "contactTitle": "Contatti",
+      "social": "Seguici",
+      "demo": "Sito dimostrativo — nomi, indirizzi, numeri e prezzi sono di fantasia."
+    }
+  },
+  "home": {
+    "meta": "Gemma, cucina di famiglia a Valdorsa: le ricette di nonna Gemma rinnovate dai nipoti, cucina a vista, piatti da condividere, vini naturali e pranzo della domenica. Sito dimostrativo.",
+    "hero": {
+      "eyebrow": "Valdorsa · cucina di famiglia",
+      "title": "Le ricette di casa, *apparecchiate di nuovo.*",
+      "lede": "Nella sala che fu di nonna Gemma oggi cuciniamo noi nipoti: classici italiani più leggeri, piatti da condividere, vini naturali e una cucina a vista dove si vede tutto.",
+      "menu": "Guarda il menu"
+    },
+    "quick": {
+      "title": "In breve",
+      "hoursLabel": "Pranzo e cena",
+      "hoursText": "Da martedì a sabato. La domenica solo pranzo, il lunedì riposiamo.",
+      "hoursLink": "Tutti gli orari",
+      "placeLabel": "Dove",
+      "bookingLabel": "Prenota in 30 secondi",
+      "bookingText": "Scegli giorno, ora e numero di persone."
+    },
+    "kitchen": {
+      "eyebrow": "La cucina",
+      "title": "Una cucina a vista, *nel mezzo della sala.*",
+      "paras": [
+        "Abbiamo abbattuto il muro che separava la cucina dai tavoli. Da qualsiasi posto si vede la pasta tirata al mattino, il sugo che sobbolle, i piatti che partono.",
+        "Il menu segue le stagioni e il mercato: poche proposte, fatte bene, con porzioni pensate anche per essere divise."
+      ],
+      "caption": "Il passe, pochi secondi prima che il piatto arrivi in sala.",
+      "notes": [
+        { "title": "Pasta fresca", "text": "Tirata ogni mattina, casoncelli compresi." },
+        { "title": "Di stagione", "text": "Il menu cambia quattro volte l’anno." }
+      ]
+    },
+    "preview": {
+      "eyebrow": "Dal menu",
+      "title": "I piatti che *ci chiedete sempre.*",
+      "lede": "Una piccola selezione: il menu completo, con i piatti vegetariani in evidenza, è a un clic.",
+      "featured": [
+        { "photo": "spaghetti", "category": "primi", "name": "Spaghetti al pomodoro e burrata" },
+        { "photo": "burrata", "category": "per-iniziare", "name": "Burrata e pomodori" },
+        { "photo": "risotto", "category": "primi", "name": "Risotto ai funghi" },
+        { "photo": "tiramisu", "category": "dolci", "name": "Tiramisù della casa" }
+      ],
+      "moreTitle": "E poi, dalla cucina di nonna",
+      "more": [
+        { "category": "primi", "name": "Casoncelli burro e salvia" },
+        { "category": "per-iniziare", "name": "Polpette della nonna" },
+        { "category": "secondi", "name": "Cotoletta alla milanese" }
+      ],
+      "link": "Tutto il menu"
+    },
+    "story": {
+      "eyebrow": "La nostra storia",
+      "title": "La stessa tavola, *un’altra generazione.*",
+      "paras": [
+        "Nonna Gemma ha cucinato per Valdorsa per tutta la vita. Quando ha appeso il grembiule, noi nipoti abbiamo deciso di non lasciare spegnere i fornelli.",
+        "Abbiamo rifatto la sala, aperto la cucina e alleggerito qualche ricetta. I sapori, quelli, sono rimasti dove erano."
+      ],
+      "link": "Leggi la nostra storia",
+      "captionSala": "La sala, rifatta con legno chiaro e grandi vetrate.",
+      "captionCucina": "La cucina a vista, nella luce del pomeriggio."
+    },
+    "together": {
+      "eyebrow": "Si mangia insieme",
+      "title": "Un posto dove *si sta a tavola a lungo.*",
+      "lede": "Da Gemma i piatti arrivano al centro e si dividono. È il modo in cui mangiavamo da bambini e quello in cui ci piace ancora.",
+      "items": [
+        { "photo": "brindisi", "title": "Il pranzo della domenica", "text": "Lasagna in teglia, pollo arrosto tagliato in sala e il tiramisù al cucchiaio. Si prenota, perché si riempie presto." },
+        { "photo": "tavola", "title": "Tavolate e gruppi", "text": "Un tavolo lungo per compleanni, rimpatriate e cene di lavoro, con un menu da condividere concordato insieme." },
+        { "photo": "amici", "title": "Bambini benvenuti", "text": "Un menu pensato per loro, seggioloni e tutto il tempo che serve. Nessuno vi guarderà male per le briciole." }
+      ],
+      "groupsLink": "Gruppi ed eventi"
+    },
+    "info": {
+      "eyebrow": "Vieni a trovarci",
+      "title": "Orari e contatti",
+      "hoursTitle": "Orari",
+      "addressTitle": "Indirizzo",
+      "contactTitle": "Contatti",
+      "contactsLink": "Tutte le informazioni"
+    }
+  },
+  "menu": {
+    "meta": "Il menu di Gemma, cucina di famiglia a Valdorsa: antipasti da condividere, pasta fresca, secondi della nonna, dolci, menu per bambini e vini naturali. Prezzi dimostrativi.",
+    "eyebrow": "Menu d’autunno",
+    "title": "Il menu",
+    "lede": "Classici italiani di casa, più leggeri e di stagione. Molti piatti sono pensati per stare al centro del tavolo: ordinate e dividete.",
+    "filterLabel": "Solo vegetariani",
+    "filterHint": "Mostra solo i piatti segnati come vegetariani.",
+    "legendTitle": "Legenda",
+    "lunchCta": "Prenota il pranzo",
+    "noteTitle": "Note"
+  },
+  "storia": {
+    "meta": "La storia di Gemma: la cucina di famiglia di nonna Gemma a Valdorsa, riaperta dai nipoti con una cucina a vista, ricette alleggerite e piatti da condividere. Sito dimostrativo.",
+    "eyebrow": "La nostra storia",
+    "title": "Da nonna Gemma, *a noi nipoti.*",
+    "lede": "Una cucina di famiglia che non ha mai smesso di cucinare: è cambiata la sala, sono cambiate le mani, è rimasta la voglia di sedersi insieme.",
+    "heroCaption": "La cucina di oggi, aperta sulla sala.",
+    "chapters": [
+      {
+        "number": "Prima",
+        "title": "La cucina di Gemma",
+        "photo": "impiattamento",
+        "caption": "Non abbiamo fotografie d’archivio da mostrarvi: le immagini di questo sito raccontano il ristorante di oggi.",
+        "paras": [
+          "Gemma ha aperto la sua trattoria in corso Novecento quando Valdorsa era ancora un paese. Pochi tavoli, una cucina stretta, un menu scritto a mano che cambiava con quello che arrivava dall’orto e dal mercato.",
+          "I suoi casoncelli, le polpette al sugo e il pollo arrosto della domenica sono diventati un’abitudine per intere famiglie. Molti clienti di allora oggi tornano con i nipoti."
+        ]
+      },
+      {
+        "number": "Oggi",
+        "title": "Il ritorno dei nipoti",
+        "photo": "sala",
+        "caption": "La sala rinnovata, con le vetrate sul verde.",
+        "paras": [
+          "Siamo cresciuti tra quei tavoli, a pelare patate e a rubare polpette. Quando la nonna ha deciso di riposare, abbiamo scelto di riaprire, a modo nostro.",
+          "Abbiamo tolto il muro della cucina, scelto legno chiaro e luce naturale, rivisto le ricette senza tradirle: meno burro dove non serve, più verdure, porzioni da mettere al centro."
+        ]
+      }
+    ],
+    "quote": {
+      "text": "La nonna diceva che un piatto è riuscito quando qualcuno chiede di dividerlo.",
+      "cite": "I nipoti di Gemma"
+    },
+    "principles": {
+      "eyebrow": "Come cuciniamo",
+      "title": "Tre regole, *scritte sulla porta della cucina.*",
+      "items": [
+        { "title": "Classici, più leggeri", "text": "Le ricette di famiglia restano quelle. Cambiano le cotture, le dosi di grasso e qualche abbinamento, per alzarsi da tavola contenti e non appesantiti." },
+        { "title": "Solo di stagione", "text": "Il menu segue l’orto e il mercato. Quando un ingrediente non è al suo meglio, il piatto aspetta l’anno dopo." },
+        { "title": "Piatti da condividere", "text": "Molte proposte arrivano al centro del tavolo, in teglia o sul tagliere. Ordinare insieme è il modo migliore per assaggiare di più." }
+      ]
+    },
+    "ingredients": {
+      "eyebrow": "Gli ingredienti",
+      "title": "Da chi conosciamo *per nome.*",
+      "paras": [
+        "Lavoriamo con piccoli produttori della provincia: il caseificio della valle per i formaggi, un orto a pochi chilometri per le verdure, un mulino per le farine della pasta fresca.",
+        "Dove possiamo, compriamo intero e usiamo tutto. Il pane avanzato diventa pangrattato per la cotoletta, gli scarti dell’orto finiscono nei brodi."
+      ],
+      "caption": "Piatti al centro del tavolo, come piace a noi."
+    },
+    "hospitality": {
+      "eyebrow": "L’accoglienza",
+      "title": "Come a casa, *senza cerimonie.*",
+      "paras": [
+        "Vi diamo del tu se vi va, vi consigliamo il vino senza fretta e vi lasciamo il tavolo finché ne avete voglia.",
+        "I bambini sono i benvenuti, i gruppi anche: ditecelo prima e prepariamo il tavolo lungo."
+      ],
+      "caption": "Una tavolata vicino alla finestra."
+    }
+  },
+  "contatti": {
+    "meta": "Contatti di Gemma, cucina di famiglia a Valdorsa: orari, indirizzo, telefono, WhatsApp, e-mail e indicazioni per arrivare. Dati dimostrativi.",
+    "eyebrow": "Contatti",
+    "title": "Vieni a trovarci *da Gemma.*",
+    "lede": "Per prenotare basta un tocco. Per gruppi, feste e richieste particolari chiamaci: risponde sempre qualcuno della famiglia.",
+    "bookTitle": "Prenota un tavolo",
+    "bookText": "Scegli giorno, ora e numero di persone: bastano pochi secondi.",
+    "channelsTitle": "Scrivici o chiamaci",
+    "channels": {
+      "phone": "Telefono",
+      "whatsapp": "WhatsApp",
+      "email": "E-mail"
+    },
+    "channelsNote": "Rispondiamo al telefono dalle 10:00 alle 22:30, nei giorni di apertura.",
+    "hoursTitle": "Orari",
+    "hoursNote": "La cucina chiude mezz’ora prima della sala. Nei giorni festivi gli orari possono cambiare.",
+    "addressTitle": "Indirizzo",
+    "whereTitle": "Sul corso, *nel centro storico.*",
+    "directionsTitle": "Come arrivare",
+    "directionsNote": "Indicazioni di esempio: la città e l’indirizzo sono di fantasia.",
+    "directions": [
+      { "title": "In auto", "text": "Uscita Valdorsa centro, poi seguire per il centro storico: corso Novecento è la via principale, a senso unico verso la piazza." },
+      { "title": "Parcheggio", "text": "Parcheggio pubblico di piazza Mercato a due minuti a piedi, gratuito la sera e la domenica." },
+      { "title": "In treno", "text": "Dalla stazione di Valdorsa sono dieci minuti a piedi lungo viale della Stazione, oppure due fermate di autobus." },
+      { "title": "In bici", "text": "Rastrelliera davanti all’ingresso, sul marciapiede del corso." }
+    ],
+    "groupsEyebrow": "Gruppi ed eventi",
+    "groupsTitle": "Tavolate, feste *e cene di lavoro.*",
+    "groupsText": [
+      "Per tavolate da otto persone in su, compleanni, battesimi e cene aziendali prepariamo un menu da condividere, concordato insieme.",
+      "La sala può essere riservata per intero il lunedì, giorno di chiusura. Chiamaci per parlarne."
+    ],
+    "groupsCta": "Chiama per i gruppi",
+    "socialTitle": "Social",
+    "socialText": "Il menu del giorno e le novità della cucina.",
+    "demoTitle": "Nota",
+    "demoText": "Questo è un sito dimostrativo: nome, indirizzo, numeri di telefono, e-mail e profili social sono di fantasia e non portano a un ristorante reale."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "name": "Trattoria Bellandi",
+  "monogram": "B",
+  "seo": {
+    "tagline": "Cucina emiliana di famiglia dal 1961",
+    "noindex": true,
+    "siteUrl": "",
+    "ogImage": "hero"
+  },
+  "colors": {
+    "bg": "#F6F1E6",
+    "paper": "#EDE4D3",
+    "ink": "#231C16",
+    "muted": "#5C5046",
+    "accent": "#7B1E2B",
+    "accentDeep": "#5E1520",
+    "green": "#2E3B2A",
+    "greenSoft": "#C9D0BC",
+    "rule": "#CBBBA2",
+    "focus": "#7B1E2B",
+    "themeColor": "#F6F1E6",
+    "favBg": "#7B1E2B",
+    "favInk": "#F6F1E6"
+  },
+  "fonts": {
+    "href": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=DM+Sans:opsz,wght@9..40,400;9..40,500&display=swap",
+    "display": "'Cormorant Garamond', 'Cormorant fallback', Georgia, serif",
+    "text": "'DM Sans', 'DM Sans fallback', system-ui, -apple-system, 'Segoe UI', sans-serif",
+    "fallbacks": [
+      {
+        "name": "Cormorant fallback",
+        "local": [
+          "Georgia"
+        ],
+        "sizeAdjust": "77.7%",
+        "ascentOverride": "118.4%",
+        "descentOverride": "37.3%",
+        "lineGapOverride": "0%"
+      },
+      {
+        "name": "Cormorant fallback",
+        "style": "italic",
+        "local": [
+          "Georgia Italic",
+          "Georgia-Italic"
+        ],
+        "sizeAdjust": "77.4%",
+        "ascentOverride": "118.9%",
+        "descentOverride": "37.5%",
+        "lineGapOverride": "0%"
+      },
+      {
+        "name": "DM Sans fallback",
+        "local": [
+          "Arial",
+          "ArialMT",
+          "Helvetica",
+          "Roboto"
+        ],
+        "sizeAdjust": "102.9%",
+        "ascentOverride": "96.2%",
+        "descentOverride": "30.1%",
+        "lineGapOverride": "0%"
+      }
+    ],
+    "_nota": "fallbacks: font di sistema ridimensionati per avere la stessa larghezza del font web (riduce gli spostamenti del layout mentre i caratteri si caricano). Se si cambia font, ricalibrare sizeAdjust."
+  },
+  "contact": {
+    "address": {
+      "street": "Via dei Mulini 14",
+      "postcode": "40000",
+      "city": "Borgo San Vitale",
+      "province": "BO"
+    },
+    "phoneDisplay": "+39 0000 123 456",
+    "email": "prenotazioni@trattoriabellandi.example"
+  },
+  "hours": [
+    {
+      "days": "Lunedì",
+      "time": "Chiuso"
+    },
+    {
+      "days": "Martedì – Sabato",
+      "time": "12:30–14:30 · 19:30–22:30"
+    },
+    {
+      "days": "Domenica",
+      "time": "12:30–15:00"
+    }
+  ],
+  "links": {
+    "booking": "",
+    "phone": "",
+    "email": "",
+    "maps": "",
+    "instagram": "",
+    "facebook": "",
+    "whatsapp": ""
+  },
+  "portal": {
+    "template": "Trattoria tradizionale",
+    "description": "Una trattoria emiliana di famiglia raccontata come un menu stampato: grande tipografia serif, filetti sottili, piatti con prezzi allineati e una storia di tre generazioni.",
+    "for": "Trattorie storiche e locali di famiglia",
+    "fonts": "Cormorant Garamond · DM Sans",
+    "paletteLabel": "Avorio, bordeaux, verde scuro",
+    "swatches": [
+      "#F6F1E6",
+      "#7B1E2B",
+      "#2E3B2A",
+      "#231C16"
+    ]
+  }
+}

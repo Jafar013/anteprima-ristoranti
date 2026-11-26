@@ -1,0 +1,158 @@
+{
+  "hero": {
+    "file": "hero.jpg",
+    "alt": "Sala della trattoria con tavoli in legno, travi a vista e luci calde",
+    "position": "50% 55%",
+    "credit": {
+      "title": "Foto Unsplash iFyLBKmCrmQ",
+      "author": "@brands-people su Unsplash",
+      "source": "https://unsplash.com/photos/iFyLBKmCrmQ",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "sala": {
+    "file": "sala.jpg",
+    "alt": "Un cameriere al banco di legno, tra tovaglie bianche, sedie rosse e fotografie alle pareti",
+    "position": "50% 60%",
+    "credit": {
+      "title": "Foto Unsplash 4Q1NcGMBE-8",
+      "author": "@jacob-fryer su Unsplash",
+      "source": "https://unsplash.com/photos/4Q1NcGMBE-8",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "cantina": {
+    "file": "cantina.jpg",
+    "alt": "Bottiglie di vino e liquori allineate su una mensola di legno",
+    "position": "50% 50%",
+    "credit": {
+      "title": "Foto Unsplash kpTkEF5Eyos",
+      "author": "@gabriella-clare-marino su Unsplash",
+      "source": "https://unsplash.com/photos/kpTkEF5Eyos",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "sfoglia": {
+    "file": "sfoglia.jpg",
+    "alt": "Mani che separano la pasta fresca appena tirata, sul tavolo infarinato",
+    "position": "50% 45%",
+    "credit": {
+      "title": "Foto Unsplash mciRIMaxiAM",
+      "author": "@vincent-dorig su Unsplash",
+      "source": "https://unsplash.com/photos/mciRIMaxiAM",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "mattarello": {
+    "file": "mattarello.jpg",
+    "alt": "Nidi di tagliatelle e un mattarello infarinato su un tagliere scuro",
+    "position": "50% 50%",
+    "credit": {
+      "title": "Foto Unsplash Tq6vWULIsSg",
+      "author": "@ahmet-safa-turkyilmaz su Unsplash",
+      "source": "https://unsplash.com/photos/Tq6vWULIsSg",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "mani": {
+    "file": "mani.jpg",
+    "alt": "Una mano stende la sfoglia con il mattarello sul piano di lavoro",
+    "position": "50% 30%",
+    "credit": {
+      "title": "Foto Unsplash itHWCygYksY",
+      "author": "@mattia-golinucci su Unsplash",
+      "source": "https://unsplash.com/photos/itHWCygYksY",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "cucina": {
+    "file": "cucina.jpg",
+    "alt": "Fotografia in bianco e nero di una donna che prepara la pasta nella cucina di casa",
+    "position": "50% 35%",
+    "credit": {
+      "title": "Foto Unsplash JzKQSxf4-4Q",
+      "author": "@lisa-marie-theck su Unsplash",
+      "source": "https://unsplash.com/photos/JzKQSxf4-4Q",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "tagliatelle": {
+    "file": "tagliatelle.jpg",
+    "alt": "Un piatto di tagliatelle al sugo servito in tavola",
+    "position": "50% 60%",
+    "credit": {
+      "title": "Foto Unsplash gOf9Be55k4s",
+      "author": "@marika-sartori su Unsplash",
+      "source": "https://unsplash.com/photos/gOf9Be55k4s",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "lasagne": {
+    "file": "lasagne.jpg",
+    "alt": "Una porzione di lasagne al ragù con una foglia di basilico",
+    "position": "45% 55%",
+    "credit": {
+      "title": "Foto Unsplash flEUTTwGlJQ",
+      "author": "@emanuel-ekstrom su Unsplash",
+      "source": "https://unsplash.com/photos/flEUTTwGlJQ",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "ravioli": {
+    "file": "ravioli.jpg",
+    "alt": "Ravioli al burro e salvia su un piatto ovale",
+    "position": "50% 50%",
+    "credit": {
+      "title": "Foto Unsplash OwmrSzvCMck",
+      "author": "@janesca su Unsplash",
+      "source": "https://unsplash.com/photos/OwmrSzvCMck",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "dolce": {
+    "file": "dolce.jpg",
+    "alt": "Una fetta di tiramisù con scaglie di cioccolato",
+    "position": "50% 50%",
+    "credit": {
+      "title": "Foto Unsplash Rjc0kwgs1ps",
+      "author": "@jay su Unsplash",
+      "source": "https://unsplash.com/photos/Rjc0kwgs1ps",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "bicchieri": {
+    "file": "bicchieri.jpg",
+    "alt": "Bicchieri e caraffe di vetro su un tavolo apparecchiato",
+    "position": "50% 50%",
+    "credit": {
+      "title": "Foto Unsplash xG2rX9sAKWQ",
+      "author": "@gabriella-clare-marino su Unsplash",
+      "source": "https://unsplash.com/photos/xG2rX9sAKWQ",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "pane": {
+    "file": "pane.jpg",
+    "alt": "Una pagnotta di pane casereccio tenuta in un panno di lino",
+    "position": "50% 50%",
+    "credit": {
+      "title": "Foto Unsplash 0Oh1bChh2ao",
+      "author": "@monika-grabkowska su Unsplash",
+      "source": "https://unsplash.com/photos/0Oh1bChh2ao",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  }
+}

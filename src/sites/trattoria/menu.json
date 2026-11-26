@@ -1,0 +1,113 @@
+{
+  "title": "Il menu",
+  "season": "Autunno e inverno",
+  "note": [
+    "Prezzi dimostrativi in euro. Coperto e pane fatto in casa 2,50 a persona.",
+    "Il menu segue le stagioni: alcuni piatti possono mancare nei giorni in cui gli ingredienti non sono al loro meglio.",
+    "Per tavolate e richieste particolari chiedete pure in sala o al telefono."
+  ],
+  "legend": [
+    { "tag": "casa", "label": "Della casa", "text": "le ricette di Ines, fatte come allora" },
+    { "tag": "stagione", "label": "Di stagione", "text": "solo finché c’è l’ingrediente giusto" },
+    { "tag": "veg", "label": "Vegetariano", "text": "senza carne né pesce" }
+  ],
+  "categories": [
+    {
+      "id": "antipasti",
+      "title": "Antipasti",
+      "intro": "Da dividere al centro del tavolo, come si fa da noi.",
+      "items": [
+        { "name": "Crescentine fritte con salumi misti", "desc": "Prosciutto crudo, mortadella, salame e coppa, con squacquerone e friggione.", "price": 16, "tags": ["casa"], "allergens": [] },
+        { "name": "Tagliere di salumi del territorio", "desc": "Affettati al momento, con giardiniera fatta in casa.", "price": 14, "tags": [], "allergens": [] },
+        { "name": "Friggione con crostini", "desc": "Cipolle e pomodoro cotti a lungo, su pane casereccio tostato.", "price": 8, "tags": ["casa"], "allergens": [] },
+        { "name": "Parmigiano Reggiano 30 mesi", "desc": "In scaglie, con qualche goccia di aceto balsamico tradizionale.", "price": 10, "tags": [], "allergens": [] }
+      ]
+    },
+    {
+      "id": "primi-in-brodo",
+      "title": "Primi in brodo",
+      "intro": "Il brodo di cappone e manzo cuoce piano dalla mattina.",
+      "items": [
+        { "name": "Tortellini in brodo di cappone", "desc": "Chiusi a mano uno per uno, con ripieno di lombo, prosciutto e mortadella.", "price": 16, "tags": ["casa"], "allergens": [] },
+        { "name": "Passatelli in brodo", "desc": "Pane raffermo, Parmigiano, uova e una grattata di noce moscata.", "price": 13, "tags": [], "allergens": [] }
+      ]
+    },
+    {
+      "id": "primi-asciutti",
+      "title": "Primi asciutti",
+      "intro": "Sfoglia all’uovo tirata al mattarello ogni mattina.",
+      "items": [
+        { "name": "Tagliatelle al ragù", "desc": "Ragù di manzo e maiale cotto quattro ore, come lo faceva Ines.", "price": 13, "tags": ["casa"], "allergens": [] },
+        { "name": "Lasagne verdi alla bolognese", "desc": "Sfoglia agli spinaci, ragù, besciamella e Parmigiano, gratinate al forno.", "price": 14, "tags": ["casa"], "allergens": [] },
+        { "name": "Tortelloni burro e salvia", "desc": "Ripieni di ricotta fresca e prezzemolo.", "price": 13, "tags": [], "allergens": [] },
+        { "name": "Gramigna alla salsiccia", "desc": "Pasta corta all’uovo, salsiccia sbriciolata e un velo di panna.", "price": 12, "tags": [], "allergens": [] },
+        { "name": "Tagliatelle ai funghi porcini", "desc": "Porcini dell’Appennino saltati con aglio e nepitella.", "price": 16, "tags": ["stagione"], "allergens": [] }
+      ]
+    },
+    {
+      "id": "secondi",
+      "title": "Secondi",
+      "items": [
+        { "name": "Bollito misto con salsa verde", "desc": "Manzo, lingua, cotechino e gallina, con mostarda e salsa verde. Il giovedì e la domenica.", "price": 20, "tags": ["casa"], "allergens": [] },
+        { "name": "Cotoletta alla bolognese", "desc": "Fesa di vitello dorata nel burro, con prosciutto crudo e Parmigiano fuso.", "price": 18, "tags": ["casa"], "allergens": [] },
+        { "name": "Coniglio alla cacciatora", "desc": "In umido con pomodoro, olive e rosmarino.", "price": 16, "tags": [], "allergens": [] },
+        { "name": "Faraona arrosto", "desc": "Cotta al forno con salvia e aglio, servita con patate.", "price": 17, "tags": [], "allergens": [] },
+        { "name": "Polpette al sugo", "desc": "Di manzo e mortadella, con pane da fare la scarpetta.", "price": 13, "tags": [], "allergens": [] }
+      ]
+    },
+    {
+      "id": "contorni",
+      "title": "Contorni",
+      "items": [
+        { "name": "Patate al forno", "desc": "Con rosmarino e sale grosso.", "price": 5, "tags": ["veg"], "allergens": [] },
+        { "name": "Spinaci al burro", "desc": "Saltati in padella.", "price": 5, "tags": ["veg"], "allergens": [] },
+        { "name": "Verdure di stagione alla griglia", "desc": "Secondo il mercato del giorno.", "price": 6, "tags": ["veg", "stagione"], "allergens": [] },
+        { "name": "Insalata mista", "desc": "Con aceto di vino e olio extravergine.", "price": 5, "tags": ["veg"], "allergens": [] }
+      ]
+    },
+    {
+      "id": "dolci",
+      "title": "Dolci",
+      "intro": "Tutti fatti in casa, la mattina stessa.",
+      "items": [
+        { "name": "Zuppa inglese", "desc": "Savoiardi all’alchermes, crema pasticcera e crema al cioccolato.", "price": 7, "tags": ["casa"], "allergens": [] },
+        { "name": "Tiramisù", "desc": "Mascarpone, caffè della moka e cacao amaro.", "price": 7, "tags": [], "allergens": [] },
+        { "name": "Torta di riso", "desc": "Riso cotto nel latte, mandorle e un goccio di liquore, secondo la ricetta bolognese.", "price": 6, "tags": ["casa"], "allergens": [] },
+        { "name": "Ciambella e Albana", "desc": "Una fetta di ciambella da inzuppare in un bicchierino di Albana passito.", "price": 7, "tags": [], "allergens": [] }
+      ]
+    },
+    {
+      "id": "vini",
+      "title": "Vini della casa",
+      "intro": "Al calice. Chiedete in sala la carta completa delle bottiglie.",
+      "items": [
+        { "name": "Lambrusco di Sorbara", "desc": "Rosato, secco e frizzante. In bottiglia 20.", "price": 5, "tags": [], "allergens": [] },
+        { "name": "Lambrusco Grasparossa", "desc": "Rosso intenso, frizzante, perfetto con i salumi. In bottiglia 20.", "price": 5, "tags": [], "allergens": [] },
+        { "name": "Sangiovese di Romagna", "desc": "Rosso fermo, per il bollito e gli arrosti. In bottiglia 22.", "price": 5, "tags": [], "allergens": [] },
+        { "name": "Pignoletto frizzante", "desc": "Bianco dei Colli Bolognesi, fresco e asciutto. In bottiglia 18.", "price": 5, "tags": [], "allergens": [] },
+        { "name": "Albana passito", "desc": "Il bicchierino da dessert.", "price": 6, "tags": [], "allergens": [] }
+      ]
+    }
+  ],
+  "allergenTitle": "Allergeni",
+  "allergenNote": [
+    "Le informazioni sugli allergeni di ogni piatto sono disponibili presso il personale di sala.",
+    "In questo sito dimostrativo l'indicazione per piatto non è compilata: il ristorante la inserisce nel campo \"allergens\" di menu.json usando i numeri dell'elenco (Reg. UE 1169/2011)."
+  ],
+  "allergenList": [
+    "Cereali contenenti glutine",
+    "Crostacei",
+    "Uova",
+    "Pesce",
+    "Arachidi",
+    "Soia",
+    "Latte",
+    "Frutta a guscio",
+    "Sedano",
+    "Senape",
+    "Semi di sesamo",
+    "Anidride solforosa e solfiti",
+    "Lupini",
+    "Molluschi"
+  ]
+}

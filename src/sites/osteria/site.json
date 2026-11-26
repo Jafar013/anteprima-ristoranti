@@ -1,0 +1,104 @@
+{
+  "name": "Osteria Campolungo",
+  "monogram": "C",
+  "seo": {
+    "tagline": "Cucina del territorio tra le colline",
+    "noindex": true,
+    "siteUrl": "",
+    "ogImage": "hero"
+  },
+  "colors": {
+    "bg": "#F4EEE2",
+    "paper": "#EBE3D3",
+    "ink": "#2C2E1F",
+    "soft": "#5E5442",
+    "olive": "#4E5530",
+    "terra": "#9C4426",
+    "terraLight": "#E0A27E",
+    "rule": "#CDC2AC",
+    "focus": "#9C4426",
+    "themeColor": "#F4EEE2",
+    "favBg": "#4E5530",
+    "favInk": "#F4EEE2"
+  },
+  "fonts": {
+    "href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT@0,9..144,300..600,0..100;1,9..144,300..500,0..100&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap",
+    "display": "'Fraunces', 'Fraunces fallback', Georgia, serif",
+    "text": "'Source Sans 3', 'Source Sans fallback', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif",
+    "fallbacks": [
+      {
+        "name": "Fraunces fallback",
+        "local": [
+          "Georgia"
+        ],
+        "sizeAdjust": "101.5%"
+      },
+      {
+        "name": "Fraunces fallback",
+        "style": "italic",
+        "local": [
+          "Georgia Italic",
+          "Georgia-Italic"
+        ],
+        "sizeAdjust": "94.7%"
+      },
+      {
+        "name": "Source Sans fallback",
+        "local": [
+          "Arial",
+          "ArialMT",
+          "Helvetica",
+          "Roboto"
+        ],
+        "sizeAdjust": "92.4%"
+      }
+    ],
+    "_nota": "fallbacks: font di sistema ridimensionati per avere la stessa larghezza del font web (riduce gli spostamenti del layout mentre i caratteri si caricano). Se si cambia font, ricalibrare sizeAdjust."
+  },
+  "contact": {
+    "address": {
+      "street": "Località Campolungo 3",
+      "postcode": "53000",
+      "city": "Poggio Alto",
+      "province": "SI"
+    },
+    "phoneDisplay": "+39 0000 234 567",
+    "email": "tavola@osteriacampolungo.example"
+  },
+  "hours": [
+    {
+      "days": "Giovedì – Lunedì",
+      "time": "19.30 – 22.30"
+    },
+    {
+      "days": "Sabato e domenica, anche a pranzo",
+      "time": "12.30 – 14.30"
+    },
+    {
+      "days": "Martedì e mercoledì",
+      "time": "Chiuso"
+    }
+  ],
+  "links": {
+    "booking": "",
+    "phone": "",
+    "email": "",
+    "maps": "",
+    "instagram": "",
+    "facebook": "",
+    "whatsapp": ""
+  },
+  "portal": {
+    "template": "Osteria del territorio",
+    "description": "Un sito editoriale e materico per un'osteria di campagna: composizioni asimmetriche, calendario della stagione, carta d'autunno e racconto del territorio.",
+    "for": "Osterie, agriturismi, cucina di territorio",
+    "fonts": "Fraunces · Source Sans 3",
+    "paletteLabel": "Panna, oliva, terracotta, bruno",
+    "swatches": [
+      "#F4EEE2",
+      "#4E5530",
+      "#9C4426",
+      "#5E5442"
+    ]
+  }
+}

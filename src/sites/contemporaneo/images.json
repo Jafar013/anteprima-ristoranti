@@ -1,0 +1,158 @@
+{
+  "hero": {
+    "file": "hero.jpg",
+    "alt": "La sala luminosa del ristorante con tavoli in legno chiaro e lampade sospese",
+    "position": "50% 55%",
+    "credit": {
+      "title": "Foto Unsplash TivEEYzzhik",
+      "author": "@alexander-fae su Unsplash",
+      "source": "https://unsplash.com/photos/TivEEYzzhik",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "sala": {
+    "file": "sala.jpg",
+    "alt": "Tavoli rotondi apparecchiati davanti alle vetrate sul verde",
+    "position": "50% 55%",
+    "credit": {
+      "title": "Foto Unsplash fnGKHK-V_Rk",
+      "author": "@r-g su Unsplash",
+      "source": "https://unsplash.com/photos/fnGKHK-V_Rk",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "cucina": {
+    "file": "cucina.jpg",
+    "alt": "La cucina a vista nella luce del pomeriggio",
+    "position": "50% 50%",
+    "credit": {
+      "title": "Foto Unsplash apbA9pu34DY",
+      "author": "@tiange-xiang su Unsplash",
+      "source": "https://unsplash.com/photos/apbA9pu34DY",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "chef": {
+    "file": "chef.jpg",
+    "alt": "Il cuoco al lavoro sotto le lampade di rame",
+    "position": "50% 30%",
+    "credit": {
+      "title": "Foto Unsplash v3OlBE6-fhU",
+      "author": "@louis-hansel su Unsplash",
+      "source": "https://unsplash.com/photos/v3OlBE6-fhU",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "impiattamento": {
+    "file": "impiattamento.jpg",
+    "alt": "Un piatto completato al banco della cucina prima del servizio",
+    "position": "50% 40%",
+    "credit": {
+      "title": "Foto Unsplash -eKZLpj7U0E",
+      "author": "@jason-leung su Unsplash",
+      "source": "https://unsplash.com/photos/-eKZLpj7U0E",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "brindisi": {
+    "file": "brindisi.jpg",
+    "alt": "Un brindisi con il vino rosso sopra una tavola con pizza e pasta",
+    "position": "50% 35%",
+    "credit": {
+      "title": "Foto Unsplash DmO662qvWO8",
+      "author": "@davey-gravy su Unsplash",
+      "source": "https://unsplash.com/photos/DmO662qvWO8",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "tavola": {
+    "file": "tavola.jpg",
+    "alt": "Piatti da condividere al centro della tavola, visti dall’alto",
+    "position": "50% 50%",
+    "credit": {
+      "title": "Foto Unsplash Q_Moi2xjieU",
+      "author": "@stefan-vladimirov su Unsplash",
+      "source": "https://unsplash.com/photos/Q_Moi2xjieU",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "amici": {
+    "file": "amici.jpg",
+    "alt": "Una tavolata di amici vicino alla finestra",
+    "position": "50% 55%",
+    "credit": {
+      "title": "Foto Unsplash PS7SeQ-LELY",
+      "author": "@karl-hedin su Unsplash",
+      "source": "https://unsplash.com/photos/PS7SeQ-LELY",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "burrata": {
+    "file": "burrata.jpg",
+    "alt": "Burrata con pomodori freschi su un piatto di ceramica",
+    "position": "50% 55%",
+    "credit": {
+      "title": "Foto Unsplash NNTV0JhNmis",
+      "author": "@paras-kapoor su Unsplash",
+      "source": "https://unsplash.com/photos/NNTV0JhNmis",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "risotto": {
+    "file": "risotto.jpg",
+    "alt": "Risotto ai funghi con rucola su un piatto di gres",
+    "position": "50% 50%",
+    "credit": {
+      "title": "Foto Unsplash noaP9Z9Ta2Y",
+      "author": "@zoshua-colah su Unsplash",
+      "source": "https://unsplash.com/photos/noaP9Z9Ta2Y",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "spaghetti": {
+    "file": "spaghetti.jpg",
+    "alt": "Spaghetti con pomodorini, zucchine e burrata, visti dall’alto",
+    "position": "50% 50%",
+    "credit": {
+      "title": "Foto Unsplash P7BBkQ9vLgU",
+      "author": "@anna-przepiorka su Unsplash",
+      "source": "https://unsplash.com/photos/P7BBkQ9vLgU",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "tiramisu": {
+    "file": "tiramisu.jpg",
+    "alt": "Il tiramisù della casa servito al tavolo",
+    "position": "50% 60%",
+    "credit": {
+      "title": "Foto Unsplash kBRJ6dhhmYQ",
+      "author": "@phoebe-lynch su Unsplash",
+      "source": "https://unsplash.com/photos/kBRJ6dhhmYQ",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "condivisione": {
+    "file": "condivisione.jpg",
+    "alt": "Pizza e pasta su un tavolo all’aperto, viste dall’alto",
+    "position": "50% 50%",
+    "credit": {
+      "title": "Foto Unsplash xWMPFH2l_J0",
+      "author": "@ali-aziz su Unsplash",
+      "source": "https://unsplash.com/photos/xWMPFH2l_J0",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  }
+}

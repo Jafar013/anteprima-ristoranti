@@ -1,0 +1,20 @@
+﻿{
+  "name": "anteprima-ristoranti",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tre siti dimostrativi statici per trattorie, osterie e ristoranti di famiglia, con pagina di selezione delle demo.",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "node tools/build.js",
+    "serve": "node tools/serve.js",
+    "dev": "node tools/build.js && node tools/serve.js",
+    "images": "node tools/images.js",
+    "previews": "node tools/previews.js",
+    "qa": "node tools/qa.js"
+  },
+  "devDependencies": {
+    "playwright-core": "1.65.1",
+    "sharp": "0.35.5"
+  }
+}
+

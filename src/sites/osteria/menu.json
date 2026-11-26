@@ -1,0 +1,106 @@
+{
+  "title": "Menu d'autunno",
+  "season": "Autunno",
+  "note": [
+    "Prezzi dimostrativi in euro, coperto e pane fatto in casa compresi.",
+    "Il menu cambia con le stagioni e, a volte, da un giorno all'altro: dipende da cosa danno l'orto, il bosco e i nostri produttori. In sala vi diciamo cosa c'è di nuovo."
+  ],
+  "categories": [
+    {
+      "id": "per-cominciare",
+      "title": "Per cominciare",
+      "intro": "Piccoli piatti da dividere, con il pane di casa ancora tiepido.",
+      "items": [
+        { "name": "Crostini neri", "desc": "Fegatini di pollo, capperi e acciuga, sul pane sciocco abbrustolito.", "price": 9, "tags": ["casa"], "allergens": [] },
+        { "name": "Fettunta con l'olio nuovo", "desc": "Pane del forno a legna, aglio, sale e l'olio appena franto dei nostri olivi.", "price": 7, "tags": ["veg", "stagione"], "allergens": [] },
+        { "name": "Porcini crudi", "desc": "Affettati sottili con sedano, pecorino stagionato e olio di casa.", "price": 14, "tags": ["veg", "stagione"], "allergens": [] },
+        { "name": "Salumi della valle", "desc": "Finocchiona, prosciutto e lardo da un piccolo allevamento di cinta, con giardiniera di casa.", "price": 13, "tags": [], "allergens": [] },
+        { "name": "Sformato di cavolo nero", "desc": "Con crema di pecorino fresco e nocciole tostate.", "price": 11, "tags": ["orto", "veg"], "allergens": [] }
+      ]
+    },
+    {
+      "id": "paste",
+      "title": "Paste fatte a mano",
+      "intro": "Tirate ogni mattina con farina di grano tenero macinata a pietra e, quando servono, le uova delle nostre galline.",
+      "note": "La farina arriva da un mulino a pietra a pochi chilometri dal casale.",
+      "items": [
+        { "name": "Pici all'aglione", "desc": "Pici tirati a mano, pomodoro e aglione cotti piano nell'olio.", "price": 13, "tags": ["casa", "veg"], "allergens": [] },
+        { "name": "Pappardelle al cinghiale", "desc": "Ragù bianco di cinghiale, bacche di ginepro e un filo di vino rosso.", "price": 16, "tags": ["stagione"], "allergens": [] },
+        { "name": "Tortelli di zucca", "desc": "Zucca dell'orto arrostita, burro di montagna e salvia.", "price": 15, "tags": ["orto", "veg", "stagione"], "allergens": [] },
+        { "name": "Tagliolini ai porcini", "desc": "Porcini saltati con aglio e nepitella, pasta all'uovo tagliata a coltello.", "price": 18, "tags": ["stagione"], "allergens": [] }
+      ]
+    },
+    {
+      "id": "zuppe",
+      "title": "Zuppe e minestre",
+      "intro": "La cucina povera della campagna: niente si butta, tutto si ripassa.",
+      "items": [
+        { "name": "Ribollita", "desc": "Cavolo nero, fagioli e pane raffermo, ripassata in padella con l'olio nuovo.", "price": 12, "tags": ["orto", "veg", "casa"], "allergens": [] },
+        { "name": "Vellutata di zucca", "desc": "Zucca e porro dell'orto, semi tostati e una goccia di aceto di casa.", "price": 11, "tags": ["orto", "veg", "stagione"], "allergens": [] },
+        { "name": "Zuppa di ceci e castagne", "desc": "Ceci della valle, castagne del bosco e rosmarino.", "price": 12, "tags": ["veg", "stagione"], "allergens": [] }
+      ]
+    },
+    {
+      "id": "dal-fuoco",
+      "title": "Dal fuoco",
+      "intro": "La brace del camino si accende alle sei di sera e lavora fino all'ultimo tavolo.",
+      "note": "Le carni vengono da un allevamento all'aperto della valle; la quantità di tagliata varia con il taglio del giorno.",
+      "items": [
+        { "name": "Tagliata di manzo", "desc": "Alla brace, con rucola selvatica e scaglie di pecorino, circa 300 g.", "price": 24, "tags": [], "allergens": [] },
+        { "name": "Coniglio in porchetta", "desc": "Disossato e arrotolato con finocchio selvatico e aglio, cotto nel forno a legna.", "price": 19, "tags": ["casa"], "allergens": [] },
+        { "name": "Peposo all'imprunetana", "desc": "Muscolo di manzo cotto per otto ore nel vino rosso e pepe nero, con polenta.", "price": 21, "tags": ["casa"], "allergens": [] },
+        { "name": "Faraona al mattone", "desc": "Mezza faraona schiacciata sulla brace, con patate al rosmarino.", "price": 20, "tags": [], "allergens": [] }
+      ]
+    },
+    {
+      "id": "orto",
+      "title": "Dall'orto",
+      "intro": "Contorni e piatti di verdura, secondo quello che l'orto offre in settimana.",
+      "items": [
+        { "name": "Fagioli all'uccelletto", "desc": "Cannellini, salvia, aglio e pomodoro, nel coccio.", "price": 7, "tags": ["orto", "veg"], "allergens": [] },
+        { "name": "Cavolo nero saltato", "desc": "Con aglio, peperoncino e olio nuovo.", "price": 6, "tags": ["orto", "veg", "stagione"], "allergens": [] },
+        { "name": "Zucca al forno", "desc": "A spicchi, con timo e sale grosso.", "price": 6, "tags": ["orto", "veg", "stagione"], "allergens": [] },
+        { "name": "Insalata dell'orto", "desc": "Radicchi, finocchi e mele, con l'aceto di casa.", "price": 6.5, "tags": ["orto", "veg"], "allergens": [] }
+      ]
+    },
+    {
+      "id": "formaggi",
+      "title": "Formaggi",
+      "intro": "Pecorini di diverse stagionature, scelti al caseificio della valle.",
+      "note": "Il miele è di un piccolo apicoltore delle colline qui intorno.",
+      "items": [
+        { "name": "Pecorino con miele e noci", "desc": "Un pecorino di media stagionatura, miele di castagno e noci del podere.", "price": 10, "tags": ["veg"], "allergens": [] },
+        { "name": "Tre pecorini", "desc": "Fresco, semistagionato e in grotta, con confettura di fichi di casa.", "price": 14, "tags": ["veg", "casa"], "allergens": [] }
+      ]
+    },
+    {
+      "id": "dolci",
+      "title": "Dolci",
+      "intro": "Preparati in casa la mattina, finché durano.",
+      "items": [
+        { "name": "Castagnaccio", "desc": "Farina di castagne, pinoli, uvetta e rosmarino, con ricotta.", "price": 7, "tags": ["veg", "stagione", "casa"], "allergens": [] },
+        { "name": "Cantucci e vin santo", "desc": "I cantucci di casa con un bicchiere di vin santo della valle.", "price": 9, "tags": ["veg", "casa"], "allergens": [] },
+        { "name": "Torta di mele e olio", "desc": "Mele del podere, olio nuovo e una crema leggera.", "price": 7, "tags": ["veg", "casa"], "allergens": [] },
+        { "name": "Pere al vino rosso", "desc": "Cotte lentamente con cannella e chiodi di garofano.", "price": 6.5, "tags": ["veg", "stagione"], "allergens": [] }
+      ]
+    },
+    {
+      "id": "cantina",
+      "title": "In cantina",
+      "intro": "Vini al calice da piccole cantine delle colline intorno; la lista delle bottiglie è in sala.",
+      "items": [
+        { "name": "Rosso delle colline", "desc": "Sangiovese giovane, al calice.", "price": 6, "tags": [], "allergens": [] },
+        { "name": "Rosso di lunga attesa", "desc": "Sangiovese affinato in botte grande, al calice.", "price": 9, "tags": [], "allergens": [] },
+        { "name": "Bianco della valle", "desc": "Trebbiano e malvasia, al calice.", "price": 5.5, "tags": [], "allergens": [] },
+        { "name": "Vin santo", "desc": "Da uve appassite sui graticci, al bicchiere.", "price": 7, "tags": [], "allergens": [] },
+        { "name": "Olio nuovo da portare a casa", "desc": "La nostra bottiglia da mezzo litro, finché c'è.", "price": 14, "tags": ["casa", "stagione"], "allergens": [] }
+      ]
+    }
+  ],
+  "allergenTitle": "Allergeni",
+  "allergenNote": [
+    "Le informazioni sugli allergeni di ogni piatto sono disponibili presso il personale di sala.",
+    "In questo sito dimostrativo l'indicazione per piatto non è compilata: il ristorante la inserisce nel campo \"allergens\" di menu.json usando i numeri dell'elenco (Reg. UE 1169/2011)."
+  ],
+  "allergenList": ["Cereali contenenti glutine", "Crostacei", "Uova", "Pesce", "Arachidi", "Soia", "Latte", "Frutta a guscio", "Sedano", "Senape", "Semi di sesamo", "Anidride solforosa e solfiti", "Lupini", "Molluschi"]
+}

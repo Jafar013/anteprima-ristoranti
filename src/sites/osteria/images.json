@@ -1,0 +1,158 @@
+{
+  "hero": {
+    "file": "hero.jpg",
+    "alt": "Colline coltivate a uliveti e vigne, con un casale tra i cipressi",
+    "position": "50% 45%",
+    "credit": {
+      "title": "Foto Unsplash a7_NmPrRTdQ",
+      "author": "@angelo-casto su Unsplash",
+      "source": "https://unsplash.com/photos/a7_NmPrRTdQ",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "colline": {
+    "file": "colline.jpg",
+    "alt": "Un casale sulla collina nella foschia del mattino",
+    "position": "50% 45%",
+    "credit": {
+      "title": "Foto Unsplash g3yfdBEAjdg",
+      "author": "@federico-di-dio-photography su Unsplash",
+      "source": "https://unsplash.com/photos/g3yfdBEAjdg",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "tramonto": {
+    "file": "tramonto.jpg",
+    "alt": "Colline al tramonto con la luce bassa sui campi",
+    "position": "50% 70%",
+    "credit": {
+      "title": "Foto Unsplash AsFcUp-6Wro",
+      "author": "@grigory-mikhaylov su Unsplash",
+      "source": "https://unsplash.com/photos/AsFcUp-6Wro",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "olio": {
+    "file": "olio.jpg",
+    "alt": "Olio versato da una brocca di ceramica su erbe aromatiche, tra pane, pomodori e spezie",
+    "position": "55% 50%",
+    "credit": {
+      "title": "Foto Unsplash 102NToxkJFA",
+      "author": "@asli-dokuzeylul su Unsplash",
+      "source": "https://unsplash.com/photos/102NToxkJFA",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "olive": {
+    "file": "olive.jpg",
+    "alt": "Olive verdi sul ramo, tra le foglie argentate",
+    "position": "50% 40%",
+    "credit": {
+      "title": "Foto Unsplash 0zjhtpnNwO0",
+      "author": "@boudewijn-huysmans su Unsplash",
+      "source": "https://unsplash.com/photos/0zjhtpnNwO0",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "pane": {
+    "file": "pane.jpg",
+    "alt": "Mani che appoggiano una pagnotta di pane su un tagliere di legno",
+    "position": "40% 50%",
+    "credit": {
+      "title": "Foto Unsplash 7ARN514bTuA",
+      "author": "@franzi-meyer su Unsplash",
+      "source": "https://unsplash.com/photos/7ARN514bTuA",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "verdure": {
+    "file": "verdure.jpg",
+    "alt": "Cesti di verdure di stagione: cavoli, rape, barbabietole e carote",
+    "position": "50% 50%",
+    "credit": {
+      "title": "Foto Unsplash vO1h-ZUlSKM",
+      "author": "@beth-macdonald su Unsplash",
+      "source": "https://unsplash.com/photos/vO1h-ZUlSKM",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "porcini": {
+    "file": "porcini.jpg",
+    "alt": "Un fungo porcino nel sottobosco autunnale",
+    "position": "50% 55%",
+    "credit": {
+      "title": "Foto Unsplash vhlNuLYHbtw",
+      "author": "@denis-sverdlik su Unsplash",
+      "source": "https://unsplash.com/photos/vhlNuLYHbtw",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "zucca": {
+    "file": "zucca.jpg",
+    "alt": "Zucche tagliate a metà su un tavolo di legno grezzo",
+    "position": "50% 50%",
+    "credit": {
+      "title": "Foto Unsplash lnPCB2PkB8M",
+      "author": "@kim-daniels su Unsplash",
+      "source": "https://unsplash.com/photos/lnPCB2PkB8M",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "zuppa": {
+    "file": "zuppa.jpg",
+    "alt": "Una scodella di vellutata di zucca con semi tostati, servita su legno",
+    "position": "50% 50%",
+    "credit": {
+      "title": "Foto Unsplash 81B2H64Ff54",
+      "author": "@monika-borys su Unsplash",
+      "source": "https://unsplash.com/photos/81B2H64Ff54",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "cantina": {
+    "file": "cantina.jpg",
+    "alt": "La cantina con le botti allineate sotto la volta di pietra",
+    "position": "50% 60%",
+    "credit": {
+      "title": "Foto Unsplash D9WH_vlxicA",
+      "author": "@eric-cook su Unsplash",
+      "source": "https://unsplash.com/photos/D9WH_vlxicA",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "tavola": {
+    "file": "tavola.jpg",
+    "alt": "Una tavola apparecchiata vista dall’alto, con piatti di ceramica e frutta",
+    "position": "50% 50%",
+    "credit": {
+      "title": "Foto Unsplash y297TPey8Do",
+      "author": "@brooke-balentine su Unsplash",
+      "source": "https://unsplash.com/photos/y297TPey8Do",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  "pasta": {
+    "file": "pasta.jpg",
+    "alt": "Mani infarinate che tirano la pasta fresca dalla macchina",
+    "position": "55% 50%",
+    "credit": {
+      "title": "Foto Unsplash 4nXkhLCrkLo",
+      "author": "@jorge-zapata su Unsplash",
+      "source": "https://unsplash.com/photos/4nXkhLCrkLo",
+      "license": "Licenza Unsplash (uso gratuito, anche commerciale)",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Il menu",
+  "season": "Menu d’autunno",
+  "note": [
+    "Prezzi dimostrativi in euro.",
+    "Il menu cambia con le stagioni: chiedete in sala i piatti del giorno."
+  ],
+  "lunch": {
+    "title": "Pranzo di lavoro",
+    "when": "Dal martedì al venerdì, 12:00–14:30",
+    "text": "Un piatto del giorno a scelta tra primo e secondo, un contorno, acqua e caffè. Pronto in tavola in tempi da pausa pranzo.",
+    "includes": ["Primo o secondo del giorno", "Contorno di stagione", "Acqua e caffè"],
+    "price": 16
+  },
+  "tagLabels": {
+    "veg": "Vegetariano",
+    "condividere": "Da condividere",
+    "nonna": "Della nonna",
+    "bambini": "Per bambini"
+  },
+  "categories": [
+    {
+      "id": "per-iniziare",
+      "title": "Per iniziare",
+      "intro": "Piatti pensati per stare al centro del tavolo.",
+      "items": [
+        { "name": "Burrata e pomodori", "desc": "Burrata pugliese, pomodori di stagione, basilico e olio extravergine.", "price": 12, "tags": ["veg", "condividere"], "allergens": [] },
+        { "name": "Vitello tonnato", "desc": "Girello rosa tagliato sottile, salsa tonnata leggera, capperi croccanti.", "price": 13, "tags": ["nonna"], "allergens": [] },
+        { "name": "Polpette della nonna", "desc": "Al sugo di pomodoro, con pane caldo per la scarpetta.", "price": 11, "tags": ["nonna", "condividere"], "allergens": [] },
+        { "name": "Verdure in pastella", "desc": "Verdure di stagione in pastella leggera, maionese alle erbe.", "price": 10, "tags": ["veg", "condividere"], "allergens": [] },
+        { "name": "Tagliere della valle", "desc": "Salumi e formaggi di piccoli produttori, giardiniera fatta in casa.", "price": 18, "tags": ["condividere"], "allergens": [] }
+      ]
+    },
+    {
+      "id": "primi",
+      "title": "Primi",
+      "intro": "Pasta fresca tirata ogni mattina nella cucina a vista.",
+      "items": [
+        { "name": "Spaghetti al pomodoro e burrata", "desc": "Pomodoro cotto piano, burrata a crudo, basilico fresco.", "price": 14, "tags": ["veg"], "allergens": [] },
+        { "name": "Casoncelli burro e salvia", "desc": "Fatti a mano come a Bergamo: ripieno di carne, burro nocciola, salvia e pancetta croccante.", "price": 15, "tags": ["nonna"], "allergens": [] },
+        { "name": "Risotto ai funghi", "desc": "Carnaroli mantecato, funghi misti, rucola e scaglie di formaggio stagionato.", "price": 16, "tags": ["veg"], "allergens": [] },
+        { "name": "Lasagna della domenica", "desc": "Solo la domenica: ragù cotto a lungo, besciamella e sfoglia sottile. Teglia per due.", "price": 28, "tags": ["nonna", "condividere"], "allergens": [] }
+      ]
+    },
+    {
+      "id": "secondi",
+      "title": "Secondi",
+      "items": [
+        { "name": "Cotoletta alla milanese", "desc": "Di vitello con l’osso, battuta sottile e dorata nel burro chiarificato. Patate al forno.", "price": 24, "tags": [], "allergens": [] },
+        { "name": "Pollo arrosto", "desc": "Mezzo pollo arrosto con erbe e limone, il suo fondo e patate.", "price": 19, "tags": ["nonna"], "allergens": [] },
+        { "name": "Pollo arrosto per la tavola", "desc": "Il pollo intero, tagliato in sala, con due contorni a scelta. Per due o tre persone.", "price": 36, "tags": ["condividere"], "allergens": [] },
+        { "name": "Parmigiana di melanzane", "desc": "Melanzane fritte, pomodoro, basilico e formaggio filante, al forno.", "price": 15, "tags": ["veg", "nonna"], "allergens": [] }
+      ]
+    },
+    {
+      "id": "contorni",
+      "title": "Contorni",
+      "items": [
+        { "name": "Verdure alla griglia", "desc": "Zucchine, melanzane e peperoni, olio e menta.", "price": 6, "tags": ["veg"], "allergens": [] },
+        { "name": "Patate al forno", "desc": "Con rosmarino e aglio in camicia.", "price": 5, "tags": ["veg"], "allergens": [] },
+        { "name": "Insalata dell’orto", "desc": "Foglie e ortaggi di stagione, vinaigrette alla senape.", "price": 5, "tags": ["veg"], "allergens": [] }
+      ]
+    },
+    {
+      "id": "dolci",
+      "title": "Dolci",
+      "items": [
+        { "name": "Tiramisù della casa", "desc": "Savoiardi, crema al mascarpone e caffè della moka, servito al cucchiaio.", "price": 7, "tags": ["veg", "nonna"], "allergens": [] },
+        { "name": "Gelato artigianale", "desc": "Due gusti dal laboratorio della piazza: chiedete quelli del giorno.", "price": 5, "tags": ["veg"], "allergens": [] },
+        { "name": "Crostata di frutta", "desc": "Pasta frolla al burro e frutta di stagione.", "price": 6.5, "tags": ["veg"], "allergens": [] }
+      ]
+    },
+    {
+      "id": "bambini",
+      "title": "Per i più piccoli",
+      "intro": "Porzioni pensate per i bambini fino a dieci anni.",
+      "items": [
+        { "name": "Pasta al pomodoro", "desc": "Pasta corta con sugo di pomodoro e formaggio a parte.", "price": 7, "tags": ["veg", "bambini"], "allergens": [] },
+        { "name": "Cotoletta e patate", "desc": "Cotoletta di pollo impanata e patate al forno.", "price": 11, "tags": ["bambini"], "allergens": [] },
+        { "name": "Pallina di gelato", "desc": "Un gusto a scelta, in coppetta.", "price": 2.5, "tags": ["veg", "bambini"], "allergens": [] }
+      ]
+    },
+    {
+      "id": "da-bere",
+      "title": "Da bere",
+      "intro": "Vini naturali di piccole cantine, che cambiano spesso.",
+      "items": [
+        { "name": "Vino al calice", "desc": "Bianco, rosso o rifermentato: la selezione della settimana.", "price": 6, "tags": [], "allergens": [] },
+        { "name": "Vino in bottiglia", "desc": "Chiedete la carta dei vini naturali.", "price": "da 26", "tags": [], "allergens": [] },
+        { "name": "Birra artigianale", "desc": "Bottiglia da 33 cl, di un birrificio della provincia.", "price": 6, "tags": [], "allergens": [] },
+        { "name": "Bibite e succhi", "desc": "Gazzosa, chinotto, succhi di frutta.", "price": 3.5, "tags": [], "allergens": [] },
+        { "name": "Acqua microfiltrata", "desc": "Naturale o frizzante, 75 cl.", "price": 2.5, "tags": [], "allergens": [] },
+        { "name": "Caffè della moka", "desc": "Anche decaffeinato.", "price": 1.5, "tags": [], "allergens": [] }
+      ]
+    }
+  ],
+  "allergenTitle": "Allergeni",
+  "allergenNote": [
+    "Le informazioni sugli allergeni di ogni piatto sono disponibili presso il personale di sala.",
+    "In questo sito dimostrativo l'indicazione per piatto non è compilata: il ristorante la inserisce nel campo \"allergens\" di menu.json usando i numeri dell'elenco (Reg. UE 1169/2011)."
+  ],
+  "allergenList": ["Cereali contenenti glutine", "Crostacei", "Uova", "Pesce", "Arachidi", "Soia", "Latte", "Frutta a guscio", "Sedano", "Senape", "Semi di sesamo", "Anidride solforosa e solfiti", "Lupini", "Molluschi"]
+}

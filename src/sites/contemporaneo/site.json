@@ -1,0 +1,115 @@
+{
+  "name": "Gemma",
+  "monogram": "G",
+  "seo": {
+    "tagline": "Cucina di famiglia a Valdorsa",
+    "noindex": true,
+    "siteUrl": "",
+    "ogImage": "hero"
+  },
+  "colors": {
+    "bg": "#F5F0E8",
+    "surface": "#EBE2D4",
+    "paper": "#FBF8F3",
+    "ink": "#23211E",
+    "inkSoft": "#5A544C",
+    "line": "#D6CBBA",
+    "dark": "#2A2724",
+    "darkLine": "#4A4540",
+    "onDark": "#F5F0E8",
+    "onDarkSoft": "#C7BEB1",
+    "accent": "#A2452A",
+    "accentHover": "#87381F",
+    "accentLight": "#E99B78",
+    "onAccent": "#FFF9F3",
+    "focus": "#9A4227",
+    "themeColor": "#F5F0E8",
+    "favBg": "#2A2724",
+    "favInk": "#E99B78"
+  },
+  "fonts": {
+    "href": "https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Manrope:wght@400;500;600;700&display=swap",
+    "display": "'Instrument Serif', 'Instrument fallback', Georgia, serif",
+    "text": "'Manrope', 'Manrope fallback', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif",
+    "fallbacks": [
+      {
+        "name": "Instrument fallback",
+        "local": [
+          "Georgia"
+        ],
+        "sizeAdjust": "74.5%"
+      },
+      {
+        "name": "Instrument fallback",
+        "style": "italic",
+        "local": [
+          "Georgia Italic",
+          "Georgia-Italic"
+        ],
+        "sizeAdjust": "105.4%"
+      },
+      {
+        "name": "Manrope fallback",
+        "local": [
+          "Arial",
+          "ArialMT",
+          "Helvetica",
+          "Roboto"
+        ],
+        "sizeAdjust": "101.1%"
+      }
+    ],
+    "_nota": "fallbacks: font di sistema ridimensionati per avere la stessa larghezza del font web (riduce gli spostamenti del layout mentre i caratteri si caricano). Se si cambia font, ricalibrare sizeAdjust."
+  },
+  "contact": {
+    "address": {
+      "street": "Corso Novecento 21",
+      "postcode": "24000",
+      "city": "Valdorsa",
+      "province": "BG"
+    },
+    "phoneDisplay": "+39 0000 345 678",
+    "whatsappDisplay": "+39 000 000 3456",
+    "email": "ciao@gemmacucina.example"
+  },
+  "hours": [
+    {
+      "days": "Martedì – Venerdì",
+      "time": "12:00–14:30 · 19:00–22:30"
+    },
+    {
+      "days": "Sabato",
+      "time": "12:00–14:30 · 19:00–23:00"
+    },
+    {
+      "days": "Domenica",
+      "time": "12:00–15:30"
+    },
+    {
+      "days": "Lunedì",
+      "time": "Chiuso"
+    }
+  ],
+  "links": {
+    "booking": "",
+    "phone": "",
+    "email": "",
+    "maps": "",
+    "instagram": "",
+    "facebook": "",
+    "whatsapp": ""
+  },
+  "portal": {
+    "template": "Ristorante familiare contemporaneo",
+    "description": "Un bistrot di famiglia rinnovato: grandi fotografie, menu filtrabile e prenotazione sempre a un tocco, anche dalla barra in basso sullo smartphone.",
+    "for": "Bistrot e ristoranti di famiglia rinnovati",
+    "fonts": "Instrument Serif · Manrope",
+    "paletteLabel": "Sabbia, antracite, terracotta",
+    "swatches": [
+      "#F5F0E8",
+      "#EBE2D4",
+      "#2A2724",
+      "#A2452A"
+    ]
+  }
+}

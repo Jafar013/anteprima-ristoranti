@@ -1,0 +1,247 @@
+{
+  "brand": { "pre": "Osteria", "name": "Campolungo" },
+  "ui": {
+    "book": "Prenota un tavolo",
+    "call": "Chiama",
+    "writeUs": "Scrivici",
+    "maps": "Indicazioni stradali",
+    "demoAddress": "Indirizzo dimostrativo",
+    "prev": "Foto precedenti",
+    "next": "Foto successive",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "whatsapp": "WhatsApp",
+    "currency": "€"
+  },
+  "tags": {
+    "orto": "Dall'orto",
+    "veg": "Vegetariano",
+    "casa": "Della casa",
+    "stagione": "Di stagione"
+  },
+  "footer": {
+    "tagline": "Cucina del territorio tra le colline, dal giovedì al lunedì.",
+    "navTitle": "Il sito",
+    "visitTitle": "Dove siamo",
+    "hoursTitle": "Orari",
+    "socialTitle": "Seguici",
+    "disclaimer": "Sito dimostrativo — nomi, indirizzi, numeri e prezzi sono di fantasia.",
+    "copyright": "Osteria Campolungo"
+  },
+  "home": {
+    "meta": "Osteria Campolungo: un casale tra gli olivi, un orto dietro la cucina e una carta che segue le stagioni. Pici a mano, brace la sera, olio nuovo. Sito dimostrativo.",
+    "hero": {
+      "kicker": "Osteria di campagna a Poggio Alto",
+      "title": "Cucina di collina, *al passo delle stagioni*",
+      "lede": "Un casale tra gli olivi, un orto dietro la cucina e una carta che cambia con quello che la terra dà. Pici tirati a mano, la brace accesa la sera, l'olio nuovo sul pane.",
+      "secondary": "Il menu d'autunno",
+      "caption": "Le colline a sud del casale, a metà ottobre."
+    },
+    "intro": {
+      "title": "Il territorio nel piatto",
+      "statement": "Cuciniamo quello che cresce a portata di sguardo: l'orto dietro la cucina, gli olivi del podere, il bosco che sale oltre la strada bianca.",
+      "paras": [
+        "Il resto arriva da chi lavora a pochi chilometri da noi: il caseificio della valle per i pecorini, un mulino a pietra per la farina, un piccolo allevamento all'aperto per le carni. Li conosciamo per nome e andiamo a prendere di persona quello che ci serve.",
+        "Per questo la carta è corta e cambia spesso. Quando una cosa finisce, finisce: al suo posto arriva quella che la stagione porta dopo."
+      ],
+      "link": "Leggi la nostra storia"
+    },
+    "season": {
+      "title": "Calendario della stagione",
+      "label": "Autunno, da ottobre a dicembre",
+      "intro": "Cosa danno adesso l'orto e il bosco, e dove lo trovate nel piatto.",
+      "items": [
+        { "name": "Zucca", "when": "ottobre – dicembre", "from": "Dall'orto", "dish": "Nei tortelli, nella vellutata e al forno a spicchi." },
+        { "name": "Porcini", "when": "fino a novembre", "from": "Dal bosco, dopo la pioggia", "dish": "Crudi con il pecorino, o sui tagliolini." },
+        { "name": "Olive nuove", "when": "novembre", "from": "Dagli olivi del podere", "dish": "L'olio appena franto, sulla fettunta." },
+        { "name": "Castagne", "when": "ottobre – novembre", "from": "Dai castagneti in alto", "dish": "Nel castagnaccio e nella zuppa con i ceci." },
+        { "name": "Cavolo nero", "when": "dopo le prime brinate", "from": "Dall'orto", "dish": "Nella ribollita e saltato con l'aglio." }
+      ]
+    },
+    "menuPreview": {
+      "kicker": "Dalla carta d'autunno",
+      "title": "Questa settimana in tavola",
+      "text": "Qualche piatto della carta di questi giorni. Il resto, compresi i vini al calice, è nel menu completo.",
+      "pick": ["Pici all'aglione", "Pappardelle al cinghiale", "Ribollita", "Coniglio in porchetta", "Castagnaccio"],
+      "link": "Tutto il menu d'autunno",
+      "captionMain": "Porcini del bosco sopra il casale, dopo una notte di pioggia.",
+      "captionSmall": "Vellutata di zucca e porro dell'orto."
+    },
+    "story": {
+      "kicker": "La nostra storia",
+      "title": "Un casale rimesso in piedi, pietra per pietra",
+      "paras": [
+        "Il casale di Campolungo era una stalla con il fienile sopra. Lo abbiamo restaurato piano, tenendo le travi, il pavimento di cotto e il camino che oggi è la nostra brace.",
+        "Intorno ci sono un orto di mezzo ettaro, centoventi olivi e un pezzo di bosco. In cucina siamo in quattro, in sala in tre: la stessa famiglia, più qualche amico che è rimasto."
+      ],
+      "link": "Leggi tutta la storia",
+      "caption": "Il casale nella foschia del mattino, visto dalla strada bianca."
+    },
+    "producers": {
+      "kicker": "Le persone dietro i piatti",
+      "title": "Chi coltiva, chi raccoglie, chi impasta",
+      "intro": "Le materie prime della stagione, fotografate dove nascono.",
+      "items": [
+        { "img": "verdure", "title": "L'orto", "text": "Cavoli, rape e barbabietole, a dieci passi dalla cucina." },
+        { "img": "olive", "title": "Gli olivi", "text": "Raccolta a mano a novembre, al frantoio della valle in giornata." },
+        { "img": "zucca", "title": "Le zucche", "text": "Seminate a maggio, conservate in dispensa fino a gennaio." },
+        { "img": "cantina", "title": "La cantina", "text": "Vini di piccole cantine delle colline qui intorno." },
+        { "img": "pasta", "title": "La pasta", "text": "Tirata ogni mattina, con farina macinata a pietra." }
+      ]
+    },
+    "tavolata": {
+      "kicker": "La domenica a pranzo",
+      "title": "La tavolata della domenica",
+      "paras": [
+        "La domenica apparecchiamo tavoli lunghi, uno accanto all'altro, e cuciniamo per tutti lo stesso pranzo: antipasti al centro, due primi, l'arrosto e il dolce della casa.",
+        "È il modo più vecchio di stare a tavola in campagna, ed è quello che ci piace di più. Si viene in famiglia, con gli amici, o si prende posto accanto a chi non si conosce ancora."
+      ],
+      "details": [
+        { "term": "Quando", "desc": "Ogni domenica, dalle 12.30" },
+        { "term": "Cosa", "desc": "Un menu unico della stagione, servito al centro" },
+        { "term": "Per chi", "desc": "Da due a venti persone, bambini compresi" },
+        { "term": "Prezzo", "desc": "38 € a persona, vino della casa compreso (prezzo dimostrativo)" }
+      ],
+      "cta": "Prenota la tavolata",
+      "caption": "La tavola della domenica, prima che arrivino gli ospiti."
+    },
+    "invite": {
+      "title": "Un tavolo, la sera, tra le colline",
+      "text": "D'autunno il sole tramonta presto: chi arriva alle sette fa ancora in tempo a vederlo dalla terrazza, con un calice in mano. Prenotate qualche giorno prima, soprattutto il fine settimana.",
+      "caption": "Il tramonto dalla terrazza del casale."
+    },
+    "info": {
+      "title": "Orari e indirizzo",
+      "hoursTitle": "Orari",
+      "addressTitle": "Dove siamo",
+      "contactTitle": "Per prenotare",
+      "contactText": "Al telefono rispondiamo dalle 10 alle 18, oppure online in qualsiasi momento.",
+      "directionsLink": "Come arrivare al casale"
+    }
+  },
+  "menu": {
+    "meta": "Il menu d'autunno dell'Osteria Campolungo: paste fatte a mano, zuppe, brace, verdure dell'orto, pecorini, dolci di casa e vini al calice. Prezzi dimostrativi.",
+    "kicker": "La carta",
+    "lede": "Una carta corta, scritta con quello che danno in questi mesi l'orto, il bosco e i produttori della valle.",
+    "legendTitle": "Segni sulla carta",
+    "legend": [
+      { "tag": "orto", "text": "verdure del nostro orto" },
+      { "tag": "veg", "text": "senza carne né pesce" },
+      { "tag": "casa", "text": "una ricetta di famiglia" },
+      { "tag": "stagione", "text": "solo in questi mesi" }
+    ],
+    "notesTitle": "Note sulla carta",
+    "producerLabel": "Da chi arriva",
+    "caption": "Zucche dell'orto, appena tagliate in cucina.",
+    "navLabel": "Categorie del menu",
+    "outro": {
+      "title": "Prenotare un tavolo",
+      "text": "Per le allergie, le intolleranze o una richiesta particolare, scriveteci quando prenotate: ne parliamo con la cucina prima che arriviate."
+    }
+  },
+  "storia": {
+    "meta": "La storia dell'Osteria Campolungo: un casale restaurato tra gli olivi, l'orto, il pane fatto in casa e i piccoli produttori della valle. Sito dimostrativo.",
+    "kicker": "La nostra storia",
+    "title": "Un casale, un orto, *una tavola lunga*",
+    "lede": "Campolungo è il nome della collina prima ancora che dell'osteria. Qui abbiamo trovato un casale da rimettere in piedi, un orto da ricominciare e un modo di cucinare che segue il calendario, non le mode.",
+    "heroCaption": "Campolungo nella foschia di un mattino d'ottobre.",
+    "chapters": [
+      {
+        "id": "casale",
+        "kicker": "Le origini",
+        "title": "La vecchia stalla diventata sala",
+        "paras": [
+          "Quando siamo arrivati il casale era chiuso da vent'anni. Al piano terra c'era la stalla, sopra il fienile, intorno rovi e olivi lasciati a se stessi.",
+          "Lo abbiamo restaurato in tre inverni, con muratori della zona e molta pazienza: le pietre sono quelle di prima, le travi pure, e la vecchia volta in pietra è diventata la cantina dove riposano i vini."
+        ],
+        "img": "cantina",
+        "caption": "La volta in pietra della cantina, sotto la sala."
+      },
+      {
+        "id": "orto",
+        "kicker": "L'orto e l'oliveto",
+        "title": "Mezzo ettaro di orto e centoventi olivi",
+        "paras": [
+          "L'orto è dietro la cucina, a dieci passi dai fornelli. Lo seminiamo seguendo i mesi: fave e piselli in primavera, pomodori e zucchine d'estate, zucche, cavoli e rape quando arriva il freddo.",
+          "Gli olivi li abbiamo potati uno per uno. A novembre si raccolgono a mano, si portano al frantoio della valle in giornata, e l'olio nuovo arriva in tavola la sera stessa."
+        ],
+        "img": "olive",
+        "caption": "Olive quasi pronte, a fine ottobre."
+      },
+      {
+        "id": "cucina",
+        "kicker": "La cucina",
+        "title": "Stagioni, pane di casa, niente sprechi",
+        "paras": [
+          "La nostra è la cucina che si faceva nei casali: pochi ingredienti buoni, tempi lunghi, e l'abitudine di non buttare niente. Il pane raffermo diventa ribollita, le ossa diventano brodo, la frutta che avanza diventa confettura.",
+          "Il pane lo cuociamo ogni mattina nel forno a legna, senza sale, come si usa qui. La pasta la tiriamo a mano, i dolci li prepariamo la mattina e durano finché durano."
+        ],
+        "img": "pane",
+        "caption": "Il pane del mattino, appena uscito dal forno."
+      }
+    ],
+    "quote": {
+      "text": "Non scegliamo cosa cucinare. Andiamo nell'orto, guardiamo cosa c'è, e da lì comincia la giornata.",
+      "cite": "Marta, in cucina dal primo giorno"
+    },
+    "people": {
+      "kicker": "Le persone",
+      "title": "Chi lavora con noi",
+      "intro": "Quello che non coltiviamo lo prendiamo da chi lavora nella valle, a pochi chilometri dal casale. Sono piccole realtà: andiamo a trovarle, assaggiamo, scegliamo insieme.",
+      "list": [
+        { "name": "Il caseificio della valle", "text": "Pecorini freschi, semistagionati e di grotta, da latte di pecore che pascolano sulle colline qui intorno." },
+        { "name": "Un mulino a pietra", "text": "La farina di grano tenero per il pane e la pasta, macinata lenta a pochi chilometri da noi." },
+        { "name": "Un allevamento all'aperto", "text": "Manzo, faraone e conigli cresciuti all'aperto, da una famiglia che alleva da tre generazioni." },
+        { "name": "Le piccole cantine delle colline", "text": "I vini al calice e in bottiglia, da vignaioli che lavorano pochi ettari ciascuno." }
+      ],
+      "img": "verdure",
+      "caption": "Il raccolto di una mattina d'autunno."
+    },
+    "hospitality": {
+      "kicker": "L'ospitalità",
+      "title": "Sedersi come a casa d'amici",
+      "paras": [
+        "In sala non c'è un copione. C'è chi vi racconta il piatto, chi vi consiglia un vino, chi vi accompagna fuori a vedere l'orto prima del dolce.",
+        "Vorremmo che uscendo da qui vi sentiste come dopo una cena in campagna da amici: un po' più lenti, e con la voglia di tornare quando cambia la stagione."
+      ],
+      "caption": "Le colline dalla terrazza, all'ora di cena."
+    }
+  },
+  "contatti": {
+    "meta": "Come raggiungere l'Osteria Campolungo: indirizzo, orari, telefono, e-mail e indicazioni per arrivare al casale in collina. Dati dimostrativi.",
+    "kicker": "Contatti",
+    "title": "Venire a trovarci",
+    "lede": "Il casale è in collina, alla fine di una strada bianca. Qui trovate orari, contatti e la strada per arrivare senza perdervi.",
+    "addressTitle": "Indirizzo",
+    "hoursTitle": "Orari",
+    "hoursNote": "In novembre, durante la raccolta delle olive, la domenica a pranzo apriamo solo su prenotazione.",
+    "phoneTitle": "Telefono",
+    "phoneNote": "Rispondiamo dalle 10 alle 18.",
+    "emailTitle": "E-mail",
+    "socialTitle": "Seguici",
+    "directions": {
+      "title": "Come arrivare",
+      "intro": "Il percorso indicato è dimostrativo, come l'indirizzo.",
+      "steps": [
+        { "title": "Dalla statale", "text": "Dalla SS2, all'uscita per Poggio Alto, seguite le indicazioni per il paese per circa 6 km." },
+        { "title": "In paese", "text": "Prima della piazza, girate a destra al cartello in legno «Campolungo» e proseguite per 2 km sulla provinciale." },
+        { "title": "La strada bianca", "text": "Dopo il secondo cipresso a sinistra comincia la strada bianca: gli ultimi 800 m sono sterrati ma percorribili da qualsiasi auto, piano." },
+        { "title": "All'arrivo", "text": "Il parcheggio è davanti al casale, sotto i gelsi. Da lì all'ingresso ci sono venti metri in piano." }
+      ],
+      "note": "Dopo una pioggia forte la strada bianca può essere fangosa: chiamateci prima di partire e vi diciamo com'è."
+    },
+    "booking": {
+      "title": "Prenotare",
+      "paras": [
+        "Consigliamo di prenotare sempre, e qualche giorno prima per il fine settimana e la tavolata della domenica.",
+        "Per gruppi oltre le dieci persone, allergie o occasioni particolari, scriveteci: rispondiamo entro un giorno."
+      ]
+    },
+    "access": {
+      "title": "Accessibilità",
+      "text": "La sala è al piano terra, senza gradini dall'ingresso; c'è un bagno accessibile. Per qualunque esigenza chiamateci: ci organizziamo."
+    },
+    "caption": "La campagna intorno al casale, sulla strada per arrivare.",
+    "fictional": "Tutti i dati di questa pagina — indirizzo, numero di telefono, e-mail, percorso — sono di fantasia: il sito è una demo."
+  }
+}

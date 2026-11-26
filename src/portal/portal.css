@@ -1,0 +1,51 @@
+/* Pagina di selezione delle demo — volutamente neutra: le protagoniste sono le anteprime. */
+:root { --bg: #f3f1ec; --ink: #161513; --muted: #5d5a54; --line: #d9d5cc; --gutter: clamp(1.25rem, 4vw, 3.5rem); }
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 400 1rem/1.6 "Geist", system-ui, -apple-system, "Segoe UI", sans-serif; -webkit-font-smoothing: antialiased; overflow-x: clip; }
+h1, h2, p, dl, dd { margin: 0; }
+img { display: block; max-width: 100%; height: auto; }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--ink); outline-offset: 4px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.skip-link { position: fixed; left: 1rem; top: 1rem; z-index: 10; padding: .7rem 1rem; background: var(--ink); color: var(--bg); transform: translateY(-200%); }
+.skip-link:focus { transform: none; }
+.wrap { width: min(100% - 2 * var(--gutter), 90rem); margin-inline: auto; }
+
+.top { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; padding: max(1.5rem, env(safe-area-inset-top)) 0 1.5rem; border-bottom: 1px solid var(--line); font-size: .875rem; }
+.top__mark { font-weight: 600; letter-spacing: -.01em; }
+.top__note { color: var(--muted); }
+
+.intro { padding: clamp(3.5rem, 9vw, 8rem) 0 clamp(3rem, 7vw, 6rem); display: grid; gap: 1.5rem; }
+.intro h1 { font-weight: 500; font-size: clamp(2.1rem, 1.2rem + 3.6vw, 4.6rem); line-height: 1.04; letter-spacing: -.035em; max-width: 18ch; text-wrap: balance; }
+@media (min-width: 48em) { .intro h1 span { display: block; } }
+.intro p { color: var(--muted); font-size: clamp(1rem, .95rem + .3vw, 1.2rem); max-width: 46ch; }
+@media (min-width: 64em) { .intro { grid-template-columns: 1.6fr 1fr; align-items: end; } }
+
+.demos { display: grid; gap: clamp(4rem, 9vw, 8rem); padding-bottom: clamp(4rem, 9vw, 8rem); }
+.demo { display: grid; gap: clamp(1.5rem, 3vw, 3rem); border-top: 1px solid var(--ink); padding-top: clamp(1.25rem, 2.5vw, 2rem); }
+@media (min-width: 60em) { .demo { grid-template-columns: minmax(0, 1.75fr) minmax(18rem, 1fr); align-items: start; } }
+
+.demo__media { position: relative; display: block; padding-bottom: 7%; }
+.demo__screen { display: block; aspect-ratio: 16 / 10; overflow: hidden; background: #e4e0d7; box-shadow: 0 0 0 1px rgba(0,0,0,.08); }
+.demo__screen img { width: 100%; height: 100%; object-fit: cover; object-position: top; transition: transform .9s cubic-bezier(.2,.7,.2,1); }
+.demo__phone { position: absolute; right: 4%; bottom: 0; width: 21%; aspect-ratio: 390 / 844; overflow: hidden; border-radius: 1.1rem; border: 5px solid var(--ink); background: var(--ink); box-shadow: 0 1.25rem 2.5rem rgba(0,0,0,.18); }
+.demo__phone img { width: 100%; height: 100%; object-fit: cover; object-position: top; border-radius: .7rem; }
+.demo__media--empty { aspect-ratio: 16 / 10; background: #e4e0d7; }
+@media (hover: hover) { .demo__media:hover .demo__screen img { transform: scale(1.015); } }
+
+.demo__text { display: grid; gap: 1.1rem; align-content: start; }
+.demo__num { font-size: .8rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.demo__title { font-weight: 500; font-size: clamp(1.75rem, 1.3rem + 1.6vw, 2.6rem); line-height: 1.08; letter-spacing: -.025em; }
+.demo__desc { color: var(--muted); max-width: 40ch; }
+.demo__meta { display: grid; gap: 0; border-top: 1px solid var(--line); font-size: .875rem; }
+.demo__meta > div { display: grid; grid-template-columns: 6.5rem 1fr; gap: 1rem; padding: .6rem 0; border-bottom: 1px solid var(--line); align-items: center; }
+.demo__meta dt { color: var(--muted); }
+.demo__swatches { display: flex; gap: .35rem; }
+.demo__swatches span { width: 1.4rem; height: 1.4rem; border-radius: 50%; box-shadow: inset 0 0 0 1px rgba(0,0,0,.15); }
+.demo__open { justify-self: start; display: inline-flex; align-items: center; gap: .75rem; min-height: 3rem; padding: .8rem 1.4rem; margin-top: .5rem; background: var(--ink); color: var(--bg); text-decoration: none; font-weight: 500; border-radius: 999px; transition: gap .25s ease, background .25s; }
+.demo__open:hover { gap: 1.1rem; background: #000; }
+
+.foot { border-top: 1px solid var(--line); padding: 1.5rem 0 max(2rem, env(safe-area-inset-bottom)); color: var(--muted); font-size: .8125rem; }
+.foot p { max-width: 70ch; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
